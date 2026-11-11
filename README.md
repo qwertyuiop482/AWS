@@ -13,3 +13,5 @@
 <img width="1759" height="882" alt="螢幕擷取畫面 2026-10-28 140855" src="https://github.com/user-attachments/assets/8beb5ecd-0aac-404c-9be5-17cde433f9c6" />
 模組3.6作業截圖
 <img width="1570" height="906" alt="螢幕擷取畫面 2026-10-28 153853" src="https://github.com/user-attachments/assets/01512aa1-02a8-4eb9-a1fb-58fc2cb4193c" />
+模組3.7作業截圖
+<img width="1726" height="899" alt="螢幕擷取畫面 2026-11-11 151537" src="https://github.com/user-attachments/assets/f68b14b3-0df8-4511-a14c-aeb64a02761f" />
